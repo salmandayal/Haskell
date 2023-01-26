@@ -1,0 +1,13 @@
+ Run file:
+- In Terminal head to the file directory
+- Use ghci to open compiler
+- Use :l filename to load file
+- Use :r to reload file
+- Use :t to check type of variable
+- Use :q to quit compiler
+
+
+ Types : Bool, Int, Integer (Long Int ), Float, Double, Char, [Char] (List of characters), Tuples (list of different types item with parennthesis)
+
+ trueAndFalse = True && True
+
